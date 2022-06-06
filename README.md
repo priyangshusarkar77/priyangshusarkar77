@@ -18,5 +18,5 @@
 
 
 ## How Do You Connect With Me:
-![image](https://user-images.githubusercontent.com/72542171/172175755-2ce74d62-49ee-4be7-b510-7c34c16dad9f.png)
+_bitmentor_ https://www.linkedin.com/in/kunal-chawla-36957b1a2/ https://www.instagram.com/_bitmentor_ https://www.youtube.com/channel/ucvqpdrxr_mku9c5xk5vsg9g https://www.hackerrank.com/kcchawla85
 
