@@ -18,5 +18,4 @@
 
 
 ## How Do You Connect With Me:
-_bitmentor_ https://www.linkedin.com/in/kunal-chawla-36957b1a2/ https://www.instagram.com/_bitmentor_ https://www.youtube.com/channel/ucvqpdrxr_mku9c5xk5vsg9g https://www.hackerrank.com/kcchawla85
-
+**https://twitter.com/Priyang90439994**
