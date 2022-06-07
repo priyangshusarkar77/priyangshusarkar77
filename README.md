@@ -23,6 +23,7 @@
 ## Languages i Know:
 ![image](https://user-images.githubusercontent.com/72542171/172314667-c696b373-24cf-4049-af32-ffc3ccecee57.png) ![image](https://user-images.githubusercontent.com/72542171/172314809-fe2d0f31-b03c-4c83-b28b-9a8836acc752.png) ![image](https://user-images.githubusercontent.com/72542171/172314851-73e00773-09b0-4f29-8a39-5ceec312adec.png) ![image](https://user-images.githubusercontent.com/72542171/172314897-746069fd-860e-4772-8a0e-b0c6c8626390.png)
 
-
+This is my stats:
+https://github-readme-stats.vercel.app/api?username=priyangshusarkar77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=radical
 
 
