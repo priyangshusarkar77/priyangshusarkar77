@@ -17,8 +17,7 @@
 - 🤔Participated in entrepreneurship cell at (IIT KHARAGPUR).
 
 ## connect with me:
-![image](https://user-images.githubusercontent.com/72542171/172316600-5d809356-0c7f-4b44-92fc-2429d01bac5b.png) ![image](https://user-images.githubusercontent.com/72542171/172317115-a36c3090-703b-49be-8c45-9ca7c8f029bc.png) ![image](https://user-images.githubusercontent.com/72542171/172318680-beb3c96b-d1fd-4771-803e-2667e78d3308.png) ![image](https://user-images.githubusercontent.com/72542171/172318173-55654224-5889-43ac-b3ec-6a56a7a23a92.png)
-![image](https://user-images.githubusercontent.com/72542171/172318232-10319e6f-abd6-413a-87c7-1504afb8e2b3.png)
+![image](https://user-images.githubusercontent.com/72542171/172316600-5d809356-0c7f-4b44-92fc-2429d01bac5b.png) ![image](https://user-images.githubusercontent.com/72542171/172317115-a36c3090-703b-49be-8c45-9ca7c8f029bc.png) ![image](https://user-images.githubusercontent.com/72542171/172318680-beb3c96b-d1fd-4771-803e-2667e78d3308.png) ![image](https://user-images.githubusercontent.com/72542171/172318918-4be27a9b-75d0-4ab3-8f63-9caa7e7d8cb7.png) ![image](https://user-images.githubusercontent.com/72542171/172318232-10319e6f-abd6-413a-87c7-1504afb8e2b3.png)
 
 
 ## Languages i Know:
