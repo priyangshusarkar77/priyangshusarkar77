@@ -25,7 +25,7 @@
 
 ## This is my stats:
 
-![image](https://user-images.githubusercontent.com/72542171/172461403-da687e9b-2b67-49f5-af69-c3e262ae1cd9.png)
+![image](https://user-images.githubusercontent.com/72542171/172461594-26cd3b51-f25c-474d-b085-2b069d0e885f.png)
 
 
 
