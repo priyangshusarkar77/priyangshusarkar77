@@ -25,6 +25,7 @@
 
 This is my stats:
 
-https://github-readme-stats.vercel.app/api?username=priyangshusarkar77&theme=synthwave
+![image](https://user-images.githubusercontent.com/72542171/172461403-da687e9b-2b67-49f5-af69-c3e262ae1cd9.png)
+
 
 
