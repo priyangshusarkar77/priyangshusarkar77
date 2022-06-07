@@ -19,4 +19,5 @@
 
 ## Languages i Know:
 ![image](https://user-images.githubusercontent.com/72542171/172177219-0126a691-7b2f-48f4-8ad0-0494ad4fba6e.png)
+![image](https://user-images.githubusercontent.com/72542171/172314667-c696b373-24cf-4049-af32-ffc3ccecee57.png)
 
