@@ -21,7 +21,10 @@
 
 
 ## Languages i Know:
-![image](https://user-images.githubusercontent.com/72542171/172314667-c696b373-24cf-4049-af32-ffc3ccecee57.png) ![image](https://user-images.githubusercontent.com/72542171/172314809-fe2d0f31-b03c-4c83-b28b-9a8836acc752.png) ![image](https://user-images.githubusercontent.com/72542171/172314851-73e00773-09b0-4f29-8a39-5ceec312adec.png) ![image](https://user-images.githubusercontent.com/72542171/172314897-746069fd-860e-4772-8a0e-b0c6c8626390.png)
+![image](https://user-images.githubusercontent.com/72542171/172587592-b3f2a3a2-9609-4eb5-ac16-3713d62ffc95.png) ![image](https://user-images.githubusercontent.com/72542171/172314667-c696b373-24cf-4049-af32-ffc3ccecee57.png) ![image](https://user-images.githubusercontent.com/72542171/172314809-fe2d0f31-b03c-4c83-b28b-9a8836acc752.png) ![image](https://user-images.githubusercontent.com/72542171/172314851-73e00773-09b0-4f29-8a39-5ceec312adec.png) ![image](https://user-images.githubusercontent.com/72542171/172314897-746069fd-860e-4772-8a0e-b0c6c8626390.png) ![image](https://user-images.githubusercontent.com/72542171/172587882-fa78a14f-b208-42ec-952a-a07f2055d1a5.png) ![image](https://user-images.githubusercontent.com/72542171/172588158-522c815d-0030-4959-bafb-74c9d0e29aa6.png) ![image](https://user-images.githubusercontent.com/72542171/172588641-88c19de1-f68d-4b58-8b52-67536c9347f6.png)
+
+
+
 
 ## This is my stats:
 
