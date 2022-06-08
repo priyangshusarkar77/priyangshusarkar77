@@ -27,5 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/72542171/172461594-26cd3b51-f25c-474d-b085-2b069d0e885f.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyangshusarkar77&langs_count=8)](https://github.com/priyangshusarkar77/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyangshusarkar77&layout=compact)](https://github.com/priyangshusarkar77/github-readme-stats)
 
 
